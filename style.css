@@ -1,0 +1,40 @@
+/* *****************tags*************** */
+
+body {
+}
+
+h1 {
+  background-image: url(./Images/pattern.webp);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+/* **************classes***************** */
+
+.head-line {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* ********************ids***************** */
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
